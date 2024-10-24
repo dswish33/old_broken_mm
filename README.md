@@ -6,4 +6,4 @@ balances.py observes and keeps track of account balances
 
 ob.py builds and updates the internal orderbook
 
-ws_client_handler.py handles the websocket connection
+ws_client_handler.py handles the websocket connections
