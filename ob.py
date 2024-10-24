@@ -3,7 +3,7 @@
 
 
 from '' import ''
-from ws_client import ws_client
+from ws_client_handler import ws_client
 from '' import ''
 
 import asyncio
