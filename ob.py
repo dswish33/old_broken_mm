@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-
 from '' import ''
 from ws_client_handler import ws_client
 from '' import ''
